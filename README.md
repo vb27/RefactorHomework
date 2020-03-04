@@ -6,3 +6,6 @@
 -changed the list items in the header so it is easier to tell the individual items and how many there are
 -changed title to Horiseon to be more specific than 'website'
 -added an id to search-engine-optimization so that it correctly scrolls down when you click the button
+-got rid of classes for the search engine, online rep, and social media to just id and changed the css to '#' from '.'
+    -there is no need to have both class and id in this case.
+    -I tried to have no id's at first but the button scrolling down broke
