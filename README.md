@@ -3,3 +3,6 @@
     -benifit-cost img has a redundant closing ("/img>"), removed
 -added a class ("buttons") in the header to make it clear in the html and css what was being manipulated in the header
 -changed class "hero" to "website-cover" to better understand what it was
+-changed the list items in the header so it is easier to tell the individual items and how many there are
+-changed title to Horiseon to be more specific than 'website'
+-added an id to search-engine-optimization so that it correctly scrolls down when you click the button
